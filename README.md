@@ -2,9 +2,9 @@
 
 ### Table of Contents
 
-1. [business understanding](#business understanding)
+1. [business understanding](#business20%understanding)
 2. [data understanding](#data%20understanding)
-3. [data preparation](#data preparation)
+3. [data preparation](#data%20preparation)
 4. [modeling](#modeling)
 5. [evluation](#evluation)
 6. [comments](#comments)
