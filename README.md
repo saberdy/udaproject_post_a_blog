@@ -2,22 +2,23 @@
 
 ### Table of Contents
 
-1. [business understanding](#business20%understanding)
-2. [data understanding](#data%20understanding)
-3. [data preparation](#data%20preparation)
-4. [modeling](#modeling)
-5. [evluation](#evluation)
-6. [comments](#comments)
+1. [Questions](#questions)
+2. [Data understanding](#data%20understanding)
+3. [Data preparation](#data%20preparation)
+4. [Solutions](#solutions)
+5. [Evluation/Comments](#evluation)
 
-## 1 <a name="business understanding"></a>
+## Questions <a name="questions"></a>
+### 1. What type of developers are among top trends of recents years? Has it been varying drastically year by year since 2017?
+### 2. Which programming languages have been most popular according to last 4 years' survey?
+### 3. What are the favorite programming languages for free/libre and opensource (FLOSS) users?
+### 4. 
 
-## 2 <a name="data%20understanding"></a>
+## Data understanding <a name="data%20understanding"></a>
 
-## 3 <a name="data preparation"></a>
+## Data preparation <a name="data preparation"></a>
 
-## 4 <a name="modeling"></a>
+## Solutions <a name="solutions"></a>
 
-## 5 <a name="evluation"></a>
-
-## 6 <a name="comments"></a>
+## Evalutations/Comments <a name="evluation"></a>
 
