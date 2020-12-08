@@ -12,6 +12,8 @@
 1. What type of developers are among top trends of recents years? Has it been varying drastically year by year since 2017?
 2. Which programming languages have been most popular according to last 4 years' survey?
 3. What are the favorite programming languages for free/libre and opensource (FLOSS) users?
+4. Is there any pattern in the way people prefer using a platform with a programming language, database, or a framework? What
+   about a platform with a specific developer type?
 
 ## Data understanding <a name="data%20understanding"></a>
 
