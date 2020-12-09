@@ -9,7 +9,7 @@
 5. [Evluation/Comments](#evluation)
 
 ## Questions <a name="questions"></a>
-1. What type of developers are among top trends of recents years? Has it been varying drastically year by year since 2017?
+1. What type of developers are among top trends of recents years? How has it been varying year by year since 2017?
 2. Which programming languages have been most popular according to last 4 years' survey?
 3. What are the favorite programming languages for Linux vs Windows operating system users 2020?
 4. Is there any pattern in the way people prefer using a platform with a programming language, database, or a framework? What
