@@ -12,6 +12,7 @@
 
 Python 3.8 Libraries used in this project are:  
 pandas, numpy and matplotlib. 
+
 The code could be run from ipynb file.
 
 ## Data understanding <a name="data%20understanding"></a>
