@@ -15,6 +15,10 @@
  - [Question 3](#q3)
  - [Question 4](#q4)
  
+## [Legal](#legal)
+
+## [Acknowledgements](#ack)
+
 
 ## Libraries <a name="lib"></a>
 
@@ -114,4 +118,16 @@ __2020: Back-End, Full-Stack, Front-End Developer__
 | DevType            | Developer, full-stack | Developer, full-stack | Back-end developer | Web developer             |
 | Count              | 12530                 | 19477                 | 15308              | 4204                      |
 
-## Acknowledgements
+
+
+## Legal <a name="legal"></a>
+
+This database - The Public 2020 Stack Overflow Developer Survey Results - is made available under the Open Database License (ODbL): [](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the Database Contents License: [](http://opendatacommons.org/licenses/dbcl/1.0/)
+
+TLDR: You are free to share, adapt, and create derivative works from The Public 2020 Stack Overflow Developer Survey Results as long as you attribute Stack Overflow, keep the database open (if you redistribute it), and continue to share-alike any adapted database under the ODbl.
+
+## Acknowledgements<a name="ack"></a>
+
+[Stack Overflow](https://insights.stackoverflow.com/survey) has made data availble for public.
+
+Massive, heartfelt thanks to all Stack Overflow contributors and lurking developers of the world who took part in the survey this year. We value your generous participation more than you know. <3
