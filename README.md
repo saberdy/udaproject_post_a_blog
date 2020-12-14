@@ -42,13 +42,11 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-## [Files]<a name="files"></a>
+## Files<a name="files"></a>
 
 The main file that has all python code is **_'main.ipynb'_** in root directory.<br/>
-__Data__ files are __*csv*__ format which are to be downloaded from <br/>
-[Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)<br/>
-Each survey from 2017 until 2020 has a file named _survey_results_public.csv_ which should <br/>
-be located in its directory with specified tree structure.<br/>
+__Data__ files are __*csv*__ format which are to be downloaded from [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey).<br/>
+Each survey from 2017 until 2020 has a file named _survey_results_public.csv_ which should be located in its directory with specified tree structure.<br/>
 The final path in data directory, for 2017 survey for instance, would be as follows:
 _'./data/2017/survey_results_public.csv'_<br/>
 
