@@ -2,22 +2,24 @@
 
 ### Table of Contents
 
-1. [business understanding](#business20%understanding)
-2. [data understanding](#data%20understanding)
-3. [data preparation](#data%20preparation)
-4. [modeling](#modeling)
-5. [evluation](#evluation)
-6. [comments](#comments)
+1. [Installation](#installation)
+2. [Data understanding](#data%20understanding)
+3. [Data preparation](#data%20preparation)
+4. [Solutions](#solutions)
+5. [Evluation/Comments](#evlation)
 
-## 1 <a name="business understanding"></a>
+## Installation <a name="installation"></a>
 
-## 2 <a name="data%20understanding"></a>
+Python 3.8 Libraries used in this project are:  
+pandas, numpy and matplotlib. 
 
-## 3 <a name="data preparation"></a>
+The code could be run from ipynb file.
 
-## 4 <a name="modeling"></a>
+## Data understanding <a name="data%20understanding"></a>
 
-## 5 <a name="evluation"></a>
+## Data preparation <a name="data preparation"></a>
 
-## 6 <a name="comments"></a>
+## Solutions <a name="solutions"></a>
+
+## Acknowledgement <a name="evluation"></a>
 
