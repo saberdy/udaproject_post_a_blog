@@ -15,7 +15,7 @@
  - [Question 3](#q3)
  - [Question 4](#q4)
  
-## [Legal](#legal)
+ ## [Legal](#leg)
 
 ## [Acknowledgements](#ack)
 
@@ -120,9 +120,9 @@ __2020: Back-End, Full-Stack, Front-End Developer__
 
 
 
-## Legal <a name="legal"></a>
+## Legal <a name="leg"></a>
 
-This database - The Public 2020 Stack Overflow Developer Survey Results - is made available under the Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/.
+All atabases used in this project - The Public 2017 till 2020 Stack Overflow Developer Survey Results - is made available under the Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/.
 
 TLDR: You are free to share, adapt, and create derivative works from The Public 2020 Stack Overflow Developer Survey Results as long as you attribute Stack Overflow, keep the database open (if you redistribute it), and continue to share-alike any adapted database under the ODbl.
 
