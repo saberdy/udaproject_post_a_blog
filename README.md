@@ -31,7 +31,7 @@ Python 3.8 Libraries used in this project are:
 
 ## [Motivation] <a name="motiv"></a>
 
-Coding and developemnet is so dynamic and evolving rapidly. New languages are emerging and new tools are developed. It may not be easy to interprete where it is heading without having a feedback. This project is analysing the current and recent years trends. For this purpose, [Stack Overflow](https://insights.stackoverflow.com/survey) survey data is used. The results could provide a glance on fascinating tools used by developers with varying expertie level. It could be used as guidance for newbies or hobbiests too. The results demonstrates uprising technologies in programming languages, databases, frameworks and platforms.
+Coding and developemnet is so dynamic and evolving rapidly. New languages are emerging and new tools are developed. It may not be easy to interprete where it is heading without having a feedback. This project is analysing the current and recent years trends. For this purpose, [Stack Overflow](https://insights.stackoverflow.com/survey) survey data is used. The results could provide a glance on fascinating tools used by developers with varying expertie level. It could be used as guidance for newbies or hobbiests too. The results demonstrate uprising technologies in programming languages, databases, frameworks and platforms.
 
 ## Files<a name="files"></a>
 
