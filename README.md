@@ -4,7 +4,7 @@
 
 ## [Libraries](#lib)
 
-## [Motivation](#motivation)
+## [Motivation](#motiv)
 
 ## [Files](#files)
 
@@ -29,23 +29,10 @@ Python 3.8 Libraries used in this project are:
 - matplotlib 
 
 
-## Motivation
-<a name="motivation"></a>
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+## [Motivation] <a name="motiv"></a>
+
+Coding and developemnet is so dynamic and evolving rapidly. New languages are emerging and new tools are developed. It may not be easy to interprete where it is heading without having a feedback. This project is analysing the current and recent years trends. For this purpose, [Stack Overflow](https://insights.stackoverflow.com/survey) survey data is used. The results could provide a glance of fascinating tools used by developers of varying expertie level. It could be used as guidance for newbies or hobbiests. Knowing the trends could also assist junior developers, educators, and even professionals to prepare for uprising technologies in programming languages, databases, frameworks and platforms.
+
 ## Files<a name="files"></a>
 
 The main file that has all python code is **_'main.ipynb'_** in root directory.<br/>
