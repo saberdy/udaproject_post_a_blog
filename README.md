@@ -34,9 +34,8 @@ Coding and developemnet is so dynamic and evolving rapidly. New languages are em
 
 ## Files<a name="fil"></a>
 
-Download [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey) data. Locate __survey_results_public.csv__ files from each survery from year 2016 till 2020 in __Data__ directory of the repository.<br/>
+Download [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey) data. Locate __survey_results_public.csv__ files from each survery from year 2016 till 2020 in __Data__ directory.<br/>
 The main file that has all python code is **_'main.ipynb'_** which is found in root directory.<br/>
-__Data__ files are __*csv*__ format which are to be downloaded from [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey).<br/>
 The final path in data directory, for 2017 survey for instance, would be as follows:
 _'./data/2017/survey_results_public.csv'_<br/>
 
