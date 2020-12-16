@@ -19,7 +19,6 @@
 
 ## [Acknowledgements](#ack)
 
-
 ## Libraries <a name="lib"></a>
 
 Python 3.8 Libraries used in this project are:  
@@ -35,9 +34,9 @@ Coding and developemnet is so dynamic and evolving rapidly. New languages are em
 
 ## Files<a name="fil"></a>
 
-The main file that has all python code is **_'main.ipynb'_** in root directory.<br/>
+Download [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey) data. Locate __survey_results_public.csv__ files from each survery from year 2016 till 2020 in __Data__ directory of the repository.<br/>
+The main file that has all python code is **_'main.ipynb'_** which is found in root directory.<br/>
 __Data__ files are __*csv*__ format which are to be downloaded from [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey).<br/>
-Each survey from 2017 until 2020 has a file named _survey_results_public.csv_ which should be located in its directory with specified tree structure.<br/>
 The final path in data directory, for 2017 survey for instance, would be as follows:
 _'./data/2017/survey_results_public.csv'_<br/>
 
