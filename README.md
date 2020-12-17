@@ -1,8 +1,7 @@
 
+### [Here is the link to the blog post](https://saberdy.github.io/projects/stackoverflow-trend-analysis/)
 
 ### Table of Contents
-
-[Here is the link to the blog post](https://saberdy.github.io/projects/stackoverflow-trend-analysis/)
 
 ## [Libraries](#lib)
 
