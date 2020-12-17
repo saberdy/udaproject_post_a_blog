@@ -8,7 +8,7 @@
 
 ## [Files](#fil)
 
-## [Summary of Results](#summary)
+## [Summary of the Results](#summary)
 
  - [Question 1](#q1)
  - [Question 2](#q2)
@@ -41,7 +41,7 @@ The final path in data directory (2017 survey for instance) would be as follows:
 _'./data/2017/survey_results_public.csv'_<br/>
 
 
-## Summary of Results <a name="summary"></a>
+## Summary of the Results <a name="summary"></a>
 
 **Q1.** What type of developers are among top trends of recents years? How has it been varying year by year since 2017?
 <a name="q1"></a>
