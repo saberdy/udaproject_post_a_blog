@@ -96,7 +96,7 @@ __2020: Back-End, Full-Stack, Front-End Developer__
 | Java                 |  5509 |
 
 **Q4.** Is there any pattern in the way people prefer using a platform with a programming language, database, or a framework? What
-   about a platform for a particular developer type?
+   about a popular platform for a particular developer type?
 <a name="q4"></a>
 |                    | 2020                  | 2019                  | 2018               | 2017                      |      
 |:-------------------|:----------------------|:----------------------|:-------------------|:--------------------------|      
