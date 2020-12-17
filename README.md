@@ -98,12 +98,33 @@ __2020: Back-End, Full-Stack, Front-End Developer__
 **Q4.** Is there any pattern in the way people prefer using a platform with a programming language, database, or a framework? What
    about a platform for a particular developer type?
 <a name="q4"></a>
-   |                    | 2020                  | 2019                  | 2018               | 2017                      |
-|:-------------------|:----------------------|:----------------------|:-------------------|:--------------------------|
-| PlatformWorkedWith | Linux                 | Linux                 | Linux              | Amazon Web Services (AWS) |
-| DevType            | Developer, full-stack | Developer, full-stack | Back-end developer | Web developer             |
-| Count              | 12530                 | 19477                 | 15308              | 4204                      |
-
+|                    | 2020                  | 2019                  | 2018               | 2017                      |      
+|:-------------------|:----------------------|:----------------------|:-------------------|:--------------------------|      
+| __Platform__       | Linux                 | Linux                 | Linux              | Amazon Web Services (AWS) |      
+| __DevType__        | Developer, full-stack | Developer, full-stack | Back-end developer | Web developer             |      
+| __Count__          | 12530                 | 19477                 | 15308              | 4204                      |      
+                  
+                                                                                             
+                                                                                             
+|                     | 2020    | 2019    | 2018    | 2017                      |            
+|:--------------------|:--------|:--------|:--------|:--------------------------|            
+| __Platform__        | Windows | Windows | Linux   | Amazon Web Services (AWS) |                  
+| __Framework__       | jQuery  | jQuery  | Node.js | Node.js                   |                  
+| __Count__           | 8957    | 15956   | 11593   | 2938                      |        
+                                                                       
+                                                                                             
+|                    | 2020   | 2019   | 2018   | 2017            |                          
+|:-------------------|:-------|:-------|:-------|:----------------|                          
+| __Platform__       | Linux  | Linux  | Linux  | Windows Desktop |                                
+| __Database__       | MySQL  | MySQL  | MySQL  | SQL Server      |                                
+| __Count__          | 11686  | 18682  | 13920  | 3213            |                      
+                                                                                             
+                                                                                             
+|                    | 2020       | 2019       | 2018       | 2017                      |    
+|:-------------------|:-----------|:-----------|:-----------|:--------------------------|    
+| __Platform__       | Linux      | Linux      | Linux      | Amazon Web Services (AWS) |          
+| __Language__       | JavaScript | JavaScript | JavaScript | JavaScript                |          
+| __Count__          | 15342      | 24558      | 17399      | 4204                      |    
 
 
 ## Legal <a name="leg"></a>
